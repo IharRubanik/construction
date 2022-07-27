@@ -143,6 +143,11 @@ body {
   body {
     .container {
       transform: scale(1.5);
+      .bottom-block{
+        span{
+            line-height: 1.917vw;
+        }
+      }
     }
     a {
       font-size: 4.168vw;

@@ -150,6 +150,9 @@ body a:hover {
     -webkit-transform: scale(1.5);
             transform: scale(1.5);
   }
+  body .container .bottom-block span {
+    line-height: 1.917vw;
+  }
   body a {
     font-size: 4.168vw;
     line-height: 5.5vw;
